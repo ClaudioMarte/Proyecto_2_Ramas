@@ -1,0 +1,18 @@
+{
+  "name": "claudio",
+  "version": "0.0.0",
+  "description": "Mi primer trabajo de ramas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claudio"
+    "photos"
+    "html"
+    "css"
+    "videos"
+  ],
+  "author": "Claudio Marte",
+  "license": "ISC"
+}
